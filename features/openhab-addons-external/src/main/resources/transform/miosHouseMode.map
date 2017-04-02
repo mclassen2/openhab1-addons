@@ -1,0 +1,4 @@
+Home=urn:micasaverde-com:serviceId:HouseModes1/SetHMode(newHModeValue=1)
+Away=urn:micasaverde-com:serviceId:HouseModes1/SetHMode(newHModeValue=2)
+Night=urn:micasaverde-com:serviceId:HouseModes1/SetHMode(newHModeValue=3)
+Vacation=urn:micasaverde-com:serviceId:HouseModes1/SetHMode(newHModeValue=4)
